@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Nexala/ReadME/blob/main/Nexala.png?raw=true" height="180" width="180">
+<img src="https://github.com/NexalaTechnologies/ReadME/blob/main/Minko_Revamped.png?raw=true" height="180" width="180">
 
 # Welcome to Nexala
 
